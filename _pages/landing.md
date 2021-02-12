@@ -16,7 +16,7 @@ intro:
   - image_path: /assets/images/strawbsGTI.jpg
     alt: "Fragaria"
     title: "Research"
-    excerpt: "Past & Ongoing Research"
+    excerpt: " "
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
@@ -24,7 +24,7 @@ intro:
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Chamerion"
     title: "Publications"
-    excerpt: "Published papers & pre-prints"
+    excerpt: " "
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
