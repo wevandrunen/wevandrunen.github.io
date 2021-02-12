@@ -28,6 +28,14 @@ intro:
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
+  - image_path: /assets/images/greenhousemimulus.jpg
+    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "Mimulus"
+    title: "CV"
+    excerpt: " "
+    url: /CV/
+    # btn_label: "Continue"
+    # btn_class: "btn--primary"
 
 
 # feature_row2:
