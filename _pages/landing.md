@@ -33,7 +33,7 @@ intro:
     alt: "Mimulus"
     title: "CV"
     excerpt: " "
-    url: /CV/
+    url: /cv_download/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
 
