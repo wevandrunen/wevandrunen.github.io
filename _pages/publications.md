@@ -12,6 +12,3 @@ last_modified_at: 12 Feb 2021
 
 {% include journal-articles.html %}
 
-## Pre-prints, In Review, and In Prep
-
-{% include preprints.html %}
