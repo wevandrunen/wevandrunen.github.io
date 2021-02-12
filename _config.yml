@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Wendy E. Van Drunen"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wendy E. Van Drunen"
 description              : "Polyploid Evolution & Ecology"
