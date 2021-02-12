@@ -16,15 +16,15 @@ intro:
   - image_path: /assets/images/strawbsGTI.jpg
     alt: "Fragaria"
     title: "Research"
-    # excerpt: "Past & Ongoing Research"
+    excerpt: "Past & Ongoing Research"
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/fireweed_butterfly.jpg
+  - image_path: /assets/images/fireweed_butterfly (2).jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Chamerion"
     title: "Publications"
-    # excerpt: "Published papers & pre-prints"
+    excerpt: "Published papers & pre-prints"
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
