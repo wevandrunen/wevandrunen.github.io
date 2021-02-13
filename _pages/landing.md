@@ -14,14 +14,14 @@ intro:
   - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems.'
 
 #feature_row:
-  - image_path: /assets/images/strawbsGTI.jpg
+  - image_path: /assets/images/strawbsGTI resize.jpg
     alt: "Fragaria"
     title: "Research"
     excerpt: " "
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/fireweed_butterfly (2).jpg
+  - image_path: /assets/images/fireweed_butterfly (2) resize.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Chamerion"
     title: "Publications"
@@ -29,7 +29,7 @@ intro:
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/greenhousemimulus.jpg
+  - image_path: /assets/images/greenhousemimulus resize.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Mimulus"
     title: "CV"
