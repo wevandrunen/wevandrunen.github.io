@@ -14,7 +14,7 @@ intro:
   - image_path: /assets/images/thumbnail_20200917_103515 (2).jpg
     alt: "colchicine"
     title: "About Me"
-    excerpt: My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (field studies, large-scale experiments in common gardens and natural populations).
+    excerpt: My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (theory, simulation modeling, phylogenetic analyses, and analysis of public, pre-published, and community science datasets) and empirical methods (field studies, large-scale experiments in common gardens and natural populations). <br> I am currently a postdoc with [Jannice Friedman](https://friedmanlab.ca/) at Queen's University, where I am using *Mimulus guttatus* to study the effects of whole-genome duplication (WGD) on life history traits.  
     # url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
