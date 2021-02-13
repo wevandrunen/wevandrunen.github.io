@@ -12,7 +12,11 @@ header:
 last_modified_at: 20 September 2020
 ---
 
-## Reproductive Strategies
+## Phenotypic Shifts in Neopolyploids
+
+Whole-genome duplication (WGD) can affect a host of plant traits.
+
+## Reproductive Strategies in Clonal Plants
 
 ![](../assets/images/20160708_090719.jpg){: .align-left} stuff. 
 <br>
