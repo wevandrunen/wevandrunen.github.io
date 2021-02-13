@@ -12,7 +12,7 @@ excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's Un
 
 
 intro:
-  - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (e.g., theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (e.g., field studies, large-scale experiments in common gardens and natural populations).'
+  - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (field studies, large-scale experiments in common gardens and natural populations).'
 
 feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
@@ -68,9 +68,9 @@ feature_row:
 #     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row %}
 
 {% include figure image_path="/assets/images/20201028_094702_HDR (2).jpg" caption="This is a figure caption." %}
 
