@@ -70,7 +70,7 @@ feature_row:
 
 {% include feature_row id="intro" type="left" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row" type="center" %}
 
 {% include figure image_path="/assets/images/20201028_094702_HDR (2).jpg" caption="This is a figure caption." %}
 
