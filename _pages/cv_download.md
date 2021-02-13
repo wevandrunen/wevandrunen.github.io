@@ -3,7 +3,7 @@ title: "CV"
 layout: single
 permalink: /cv_download/
 author_profile: true
-date: 2016-03-23T11:48:41-04:00
+date: 2021-02-13
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
