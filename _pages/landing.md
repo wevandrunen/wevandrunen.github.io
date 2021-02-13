@@ -6,7 +6,7 @@ author_profile: true
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.25"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/20201028_094702_HDR (2).jpg
 excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
