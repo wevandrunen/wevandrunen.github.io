@@ -1,8 +1,8 @@
 ---
+author_profile: true
 title: "Wendy E. Van Drunen"
 layout: splash
 permalink: /
-author_profile: true
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -20,7 +20,7 @@ intro:
     excerpt: " "
     url: /research/
     # btn_label: "Continue"
-    # btn_class: "btn--primary"
+    btn_class: "btn--primary"
   - image_path: /assets/images/fireweed_butterfly (2) resize.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Chamerion"
@@ -28,7 +28,7 @@ intro:
     excerpt: " "
     url: /publications/
     # btn_label: "Continue"
-    # btn_class: "btn--primary"
+    btn_class: "btn--primary"
   - image_path: /assets/images/greenhousemimulus resize.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Mimulus"
@@ -36,7 +36,7 @@ intro:
     excerpt: " "
     url: /cv_download/
     # btn_label: "Continue"
-    # btn_class: "btn--primary"
+    btn_class: "btn--primary"
 
 
 # feature_row2:
