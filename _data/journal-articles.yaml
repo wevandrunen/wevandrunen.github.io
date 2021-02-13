@@ -7,4 +7,36 @@
   volume: 224
   pages: 1266-1277
   openaccess: false
+  pdf-url: https://doi.org/10.1111/nph.15999
+  
+- id: Van Drunen 2018c
+  authors: __W.E. Van Drunen__, B.C. Husband
+  title: Whole-genome duplication decreases clonal stolon production and genet size in the wild strawberry _Fragaria vesca_
+  journal: American Journal of Botany
+  year: 2018
+  volume: 105
+  pages: 1712-1724
+  openaccess: false
+  pdf-url: https://doi.org/10.1002/ajb2.1159 
+  
+- id: Van Drunen 2018b
+  authors: __W.E. Van Drunen__, M.E. Dorken
+  title: Life-history trade-offs promote the evolution of dioecy
+  journal: Journal of Evolutionary Biology
+  year: 2018
+  volume: 31
+  pages: 1405-1412
+  openaccess: false
+  pdf-url: https://doi.org/10.1111/jeb.13335
+
+- id: Van Drunen 2018a
+  authors: __W.E. Van Drunen__, B.C. Husband
+  title: Immediate vs. evolutionary consequences of polyploidy on clonal reproduction in an autopolyploid plant
+  journal: Annals of Botany
+  year: 2018
+  volume: 122
+  pages: 195-205
+  openaccess: false
+  pdf-url: https://doi.org/10.1093/aob/mcy071
+  
 ---
