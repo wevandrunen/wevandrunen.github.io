@@ -1,8 +1,8 @@
 ---
-author_profile: true
 title: "Wendy E. Van Drunen"
 layout: splash
 permalink: /
+author_profile: true
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
@@ -69,7 +69,7 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="center %}
+{% include feature_row %}
 
 <!-- {% include feature_row id="feature_row2" type="left" %}
 
