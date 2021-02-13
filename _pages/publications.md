@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 title: "Publications"
 classes: wide
-toc: true
+toc: false
 last_modified_at: 12 Feb 2021
 ---
 
