@@ -12,8 +12,13 @@ excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's Un
 
 
 intro:
-  - image_path:/assets/images/colchicinepic.jpg
-    excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (field studies, large-scale experiments in common gardens and natural populations).'
+  - image_path: /assets/images/colchicinepic.jpg
+    alt: "colchicine"
+    title: "About Me"
+    excerpt: "My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (field studies, large-scale experiments in common gardens and natural populations)."
+    # url: /research/
+    # btn_label: "Continue"
+    # btn_class: "btn--primary"
 
 feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
