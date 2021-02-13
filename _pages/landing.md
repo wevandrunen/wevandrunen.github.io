@@ -13,7 +13,7 @@ excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's Un
 intro:
   - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems.'
 
-#feature_row:
+feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
     alt: "Fragaria"
     title: "Research"
