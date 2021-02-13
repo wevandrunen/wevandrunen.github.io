@@ -14,7 +14,7 @@ last_modified_at: 20 September 2020
 
 ## Phenotypic Shifts in Neopolyploids
 
-Whole-genome duplication (WGD) can affect a host of plant traits.
+![](..assets/images/dip and tet2 small. jpg){: .align-right} Whole-genome duplication (WGD) can affect a host of plant traits.
 
 ## Reproductive Strategies in Clonal Plants
 
