@@ -10,6 +10,12 @@ header:
   overlay_image: /assets/images/20201028_094702_HDR (2).jpg
 excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
+
+<p align="justify" style="font-size:130%;">
+My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches; fieldwork, large-scale greenhouse experiments, comparative phylogenetic analysis, and computational methods.
+</p>
+
+
 intro:
   - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems.'
 
