@@ -11,7 +11,7 @@ header:
 excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
 intro:
-  - image_path: /assets/images/thumbnail_20200917_103515 (2).jpg
+  - image_path: /assets/images/thumbnail small.jpg
     alt: "colchicine"
     title: "About Me"
     excerpt: My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (field studies, large-scale experiments in common gardens and natural populations).
@@ -75,7 +75,7 @@ feature_row:
 
 {% include feature_row id="intro" type="left" %}
 
-{% include feature_rowB %}
+{% include feature_rowB id="feature_row" type="centre" %}
 
 <!-- {% include figure image_path="/assets/images/20201028_094702_HDR (2).jpg" caption="This is a figure caption." %}
 
