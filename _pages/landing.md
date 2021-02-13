@@ -11,13 +11,8 @@ header:
 excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
 
-<p align="justify" style="font-size:130%;">
-My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches; fieldwork, large-scale greenhouse experiments, comparative phylogenetic analysis, and computational methods.
-</p>
-
-
 intro:
-  - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems.'
+  - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems. I use a variety of quantitative approaches, combining computational (e.g., theory, simulation modeling, phylogenetic analyses, mand analysis of large public, pre-published, and community science datasets) and empirical methods (e.g., field studies, large-scale experiments in common gardens and natural populations).'
 
 feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
