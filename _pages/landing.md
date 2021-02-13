@@ -1,5 +1,5 @@
 ---
-title: "Polyploid Evolution & Ecology"
+title: "Wendy E. Van Drunen"
 layout: splash
 permalink: /
 author_profile: true
