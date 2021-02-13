@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/20201028_094702_HDR (2).jpg
-excerpt: Postdoctoral Researcher <br> Department of Biology <br> Queen's University
+excerpt: Postdoctoral Researcher <br> Polyploid Evolution & Ecology <br> Department of Biology <br> Queen's University
 
 intro:
   - excerpt: 'My research focuses on the evolution and ecology of polyploid plants in natural and urban systems.'
