@@ -12,7 +12,7 @@ header:
 last_modified_at: 13 February 2021
 ---
 
-My research is motivated by two broad questions, and the intersection between them:
+![image-right](../assets/images/colchicinepic.jpg){: .align-right} My research is motivated by two broad questions:
 1. What are the eco-evolutionary causes and consequences of polyploidy?  
 2. How do sexual and asexual reproduction via clonal growth interact, and how does investment in clonal reproduction affect fitness?   
 <br>
