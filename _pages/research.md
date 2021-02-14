@@ -38,6 +38,18 @@ Previous comparative phylogenetic analyses on a large angiosperm-wide data set (
 <br>
 {% include figure image_path="/assets/images/sim.jpg" alt="this is a placeholder image" caption="A polyploid clone (green cells) expands into a simulated population of diploids (grey cells). Coloured cells are new, sexually produced polyploids." type=center %}
 
+# Polyploidy & Urbanization
+
+## Polyploid vs. Diploid Species in Urban Environments
+
+![](../assets/images/inaturalist.jpg){: .align-right} Urban areas are predicted to be hotspots of  polyploid speciation, and fast-growing urban landscapes offer a unique chance to observe polyploid formation and evolution on a contemporary timescale. For example, eifferences in tolerance to urban environments between diploid and polyploid species may result in biogeographical shifts, as diploids are outcompeted and displaced by polyploids over time. This process may be compounded by a human-driven increase in invasive, horticultural, and commensal species in urban areas, many of which are polyploid. Changes in community-level ploidy variation could greatly affect ecological interactions (e.g., pollinators), and influence how plants respond to urban environments. 
+<br>
+<br>
+I am currently analyzing large GTA-based datasets from several sources: (1) ~8,000 records of 717 species from community science platform iNaturalist (2018-2019). The figure on the right shows this data for two clover species, using distance to urban centre as a measure of urbanization; (2) Toronto and Region Conservation Authority (TRCA) survey data and ~95,000 point observations; and (3) Specimens in the ROM Green Plant Herbarium between the years 1838-2020. 
+<br>
+<br>
+Stay tuned for more coming soon! 
+
 ## Reproductive Strategies in Clonal Plants
 
 
