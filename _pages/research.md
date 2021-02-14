@@ -32,7 +32,7 @@ During my PhD at the University of Guelph, I used synthetic lab-generated neopol
 <br>
 Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from populations across this species range.
 <br>
-{% include figure image_path="/assets/images/MimGrowout1.jpg" alt="this is a placeholder image" caption="_Mimulus_ seedlings that have been treated with colchicine to induce WGD" type=center %}
+{% include figure image_path="/assets/images/MimGrowout1.jpg" alt="this is a placeholder image" caption="_Mimulus_ seedlings that have been treated with colchicine to induce WGD" type=left %}
 
 ## Reproduction, Life History Strategies, and Polyploid Establishment
 
@@ -47,7 +47,9 @@ I am particularly interested in the impact of reproductive and life history stra
 ![image-right](../assets/images/inaturalist.jpg){: .align-right} Urban areas are predicted to be hotspots of polyploid speciation, and fast-growing urban landscapes offer a unique chance to observe polyploid formation and evolution on a contemporary timescale. For example, differences in tolerance to urban environments between diploids and polyploids (between __and__ within species) may result in biogeographical shifts, as diploids are outcompeted and displaced by polyploids over time. This may be compounded by a human-driven increase in invasive, horticultural, and commensal species in urban areas, many of which are polyploid. These changes in community-level ploidy variation could greatly affect ecological interactions (e.g., pollinators), and ultimately influence how plants respond to urban environments and global change. 
 <br>
 <br>
-I am currently analyzing several datasets from the Greater Toronto Area (GTA): (1) ~8,000 records of 717 species from community science platform iNaturalist (2018-2019). The figure on the right shows this data for two clover species (_Trifolium_), using distance to urban centre as a measure of urbanization; (2) Toronto and Region Conservation Authority (TRCA) survey data and ~95,000 point observations; and (3) Specimens in the ROM Green Plant Herbarium between the years 1838-2020 (~15 000 records). 
+I am currently analyzing several datasets from the Greater Toronto Area (GTA): (1) ~8,000 records of 717 species from community science platform iNaturalist (2018-2019). The figure below shows this data for two clover species (_Trifolium_), using distance to urban centre as a measure of urbanization; (2) Toronto and Region Conservation Authority (TRCA) survey data and ~95,000 point observations; and (3) Specimens in the ROM Green Plant Herbarium between the years 1838-2020 (~15 000 records). 
+<br>
+{% include figure image_path="/assets/images/inaturalist.jpg" alt="this is a placeholder image" caption="LEFT: iNaturalist observations for diploid _Trifolium pratense_ (N=75), and tetraploid _T. repens_ (N=66) in the GTA. Urban and suburban areas are in light colours, natural areas in green. RIGHT: Preliminary analyses show that the mean distance to the urban centre (Yonge-Dundas Square, black star in A) is marginally lower for polyploid _T. repens_" type=left %}
 <br>
 <br>
 Stay tuned for more!
