@@ -12,15 +12,15 @@ header:
 last_modified_at: 13 February 2021
 ---
 
-My research is motivated by two broad questions:
-1. What are the eco-evolutionary causes and consequences of polyploidy? <br> Polyploidy (3 or more chromosome sets) is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied. I concentrate on the impact of phenotypic divergence between diploids and polyploids, in both natural and urban systems.
+My research is motivated by two broad questions, and the intersection between them:
+1. What are the eco-evolutionary causes and consequences of polyploidy?  
+2. How do sexual and asexual reproduction via clonality interact, and how does investment in clonal reproduction affect fitness?   
 <br>
 <br>
-2. How does investment in clonal reproduction affect fitness? <br> Asexual reproduction via clonality occurs through the vegetative production of daughter shoots, genetically identical to the mother plant.  
+# What are the eco-evolutionary causes and consequences of polyploidy in natural systems?
 
-<br>
-<br>
-<br>
+Polyploidy (3 or more chromosome sets) is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied, especially in non-crop/non-model systems. I concentrate on the impact of phenotypic divergence between diploids and polyploids, in both natural populations and urban environments.
+
 ## Phenotypic Shifts in Neopolyploids
 
 ![](../assets/images/Dip and tet2 small.jpg){: .align-right} Autopolyploids (polyploids arising within a single species) frequently exhibit divergent phenotypes from their diploid parents (e.g., plant size, see diploid vs. neotetraploid _Fragaria vesca_ on the right). Changes can happen immediately following the WGD event, or they may arise over many generations if cytotypes are subject to different selective pressures. But since newly arisen neo-polyploids are only rarely observed in nature, we often can't disentangle the short- vs. long-term effects of WGD on individual phenotypes. 
@@ -44,7 +44,7 @@ Comparative phylogenetic analyses I conducted on a large angiosperm-wide data se
 {% include figure image_path="/assets/images/sim.jpg" alt="this is a placeholder image" caption="A polyploid clone (green cells) expands into a simulated population of diploids (grey cells). Coloured cells are new, sexually produced polyploids." type=center %}
 
 ## Polyploid vs. Diploid Species in Urban Environments
-![](../assets/images/inaturalis.jpg){: .align-right .caption="TOP: iNaturalist observations for diploid Trifolium pratense (N=75), and tetraploid T. repens (N=66) in the GTA. Urban and suburban areas are in light colours, natural areas in greens. BOTTOM Preliminary analyses show that the mean distance to the urban centre (Yonge-Dundas Square, black star in A) is marginally lower for polyploid T. repens (t-test, p = 0.0462)."} Urban areas are predicted to be hotspots of  polyploid speciation, and fast-growing urban landscapes offer a unique chance to observe polyploid formation and evolution on a contemporary timescale. For example, eifferences in tolerance to urban environments between diploid and polyploid species may result in biogeographical shifts, as diploids are outcompeted and displaced by polyploids over time. This process may be compounded by a human-driven increase in invasive, horticultural, and commensal species in urban areas, many of which are polyploid. Changes in community-level ploidy variation could greatly affect ecological interactions (e.g., pollinators), and influence how plants respond to urban environments. 
+![](../assets/images/inaturalis.jpg){: .align-right .caption="TOP: iNaturalist observations for diploid _Trifolium pratense_ (N=75), and tetraploid _T. repens_ (N=66) in the GTA. Urban and suburban areas are in light colours, natural areas in greens. BOTTOM Preliminary analyses show that the mean distance to the urban centre (Yonge-Dundas Square, black star in A) is marginally lower for polyploid _T. repens_ (t-test, p = 0.0462)."} Urban areas are predicted to be hotspots of  polyploid speciation, and fast-growing urban landscapes offer a unique chance to observe polyploid formation and evolution on a contemporary timescale. For example, eifferences in tolerance to urban environments between diploid and polyploid species may result in biogeographical shifts, as diploids are outcompeted and displaced by polyploids over time. This process may be compounded by a human-driven increase in invasive, horticultural, and commensal species in urban areas, many of which are polyploid. Changes in community-level ploidy variation could greatly affect ecological interactions (e.g., pollinators), and influence how plants respond to urban environments. 
 <br>
 <br>
 I am currently analyzing large GTA-based datasets from several sources: (1) ~8,000 records of 717 species from community science platform iNaturalist (2018-2019). The figure on the right shows this data for two clover species, using distance to urban centre as a measure of urbanization; (2) Toronto and Region Conservation Authority (TRCA) survey data and ~95,000 point observations; and (3) Specimens in the ROM Green Plant Herbarium between the years 1838-2020. 
@@ -54,6 +54,6 @@ Stay tuned for more!
 
 ## Reproductive Strategies in Clonal Plants
 
-
+Asexual reproduction via clonality occurs through the vegetative production of daughter shoots, genetically identical to the mother plant.
 
 
