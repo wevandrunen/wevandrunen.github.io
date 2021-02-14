@@ -36,8 +36,7 @@ I am particularly interested in the impact of reproductive and life history stra
 <br> 
 Previous comparative phylogenetic analyses on a large angiosperm-wide data set ([Van Drunen & Husband 2019](https://doi.org/10.1111/nph.15999)) revealed variable evolutionary relationships between clonal reproduction and polyploidy across major clades, and further suggest that the relationship between these two traits is strongly confounded with perenniality. In my postdoc at Queen's University, I have developed agent-based simulation models with explicit spatial structure to contrast the role of clonal reproduction vs. life history in polyploid establishment (Van Drunen & Friedman, _in prep_). 
 <br>
-
-{% include figure image_path="/assets/images/sim.jpg" alt="this is a placeholder image" caption="This is a figure caption." type=center %}
+{% include figure image_path="/assets/images/sim.jpg" alt="this is a placeholder image" caption="A polyploid clone (green cells) expands into a simulated population of diploids (grey cells). Coloured cells are new, sexually produced polyploids." type=center %}
 
 ## Reproductive Strategies in Clonal Plants
 
