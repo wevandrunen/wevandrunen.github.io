@@ -39,6 +39,7 @@ During my PhD at the University of Guelph, I used synthetic lab-generated neopol
 <br>
 <br>
 Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from populations across this species range.
+<br>
 {% include gallery id=gallery caption="Treating _Mimulus_ and _Fragaria_ with colchicine to induce WGD"}
 
 ## Reproduction, Life History Strategies, and Polyploid Establishment
