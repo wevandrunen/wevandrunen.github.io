@@ -1,5 +1,5 @@
 ---
-title: "Wendy E. Van Drunen"
+title: "Polyploid Evolution & Ecology"
 layout: splash
 permalink: /
 author_profile: true
@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/IMG_3297edit.jpg
-excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
+excerpt: Wendy E. Van Drunen <br> Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
 intro:
   - image_path: /assets/images/thumbnail_20200917_103515 (2).jpg
