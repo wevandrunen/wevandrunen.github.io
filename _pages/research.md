@@ -10,14 +10,6 @@ header:
   overlay_filter: "0.10"
   overlay_image: /assets/images/Mim greenhouse.jpg
 last_modified_at: 13 February 2021
-
-gallery:
-  - image_path: /assets/images/MimGrowout1.jpg
-    alt: "placeholder image 1"
-    # title: "Image 1 title caption"
-  - image_path: /assets/images/colchicinepic.jpg
-    alt: "placeholder image 2"
-    # title: "Image 2 title caption"
 ---
 
 My research is motivated by two broad questions, and the intersection between them:
@@ -40,7 +32,7 @@ During my PhD at the University of Guelph, I used synthetic lab-generated neopol
 <br>
 Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from populations across this species range.
 <br>
-{% include gallery id=gallery caption="Treating _Mimulus_ and _Fragaria_ with colchicine to induce WGD"}
+{% include figure image_path="/assets/images/MimGrowout1.jpg" alt="this is a placeholder image" caption="_Mimulus_ seedlings that have been treated with colchicine to induce WGD" type=center %}
 
 ## Reproduction, Life History Strategies, and Polyploid Establishment
 
