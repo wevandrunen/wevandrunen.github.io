@@ -31,7 +31,7 @@ Current research with _Mimulus guttatus_ is exploring the effects of WGD on life
 Polyploid establishment in diploid populations is constrained by Minority Cytotype Exclusion (MCE), where rare polyploids have low fitness relative to diploids because most of their mating opportunities are between-cytotype. Species with traits that help overcome MCE are expected to produce successful polyploids. Many traits have been postulated to alleviate MCE (e.g., self-fertilization, assortative mating, asexual reproduction), but the mechanisms behind success or failure in the establishment process have proven difficult, or impossible, to study in natural populations.
 <br>
 <br>
-I am particularly interested in the impact of reproductive and life history strategies on polyploid success, and I combine fieldwork with experimental, theoretical, and computational methods to obtain a fuller picture of the role of these strategies in polyploid establishment.
+I am particularly interested in the impact of reproductive and life history strategies on polyploid success. I combine fieldwork with experimental, theoretical, and computational methods to obtain a fuller picture of the role of these strategies in polyploid establishment.
 <br>
 <br> 
 Previous comparative phylogenetic analyses on a large angiosperm-wide data set ([Van Drunen & Husband 2019](https://doi.org/10.1111/nph.15999)) revealed variable evolutionary relationships between clonal reproduction and polyploidy across major clades, and further suggest that the relationship between these two traits is strongly confounded with perenniality. In my postdoc at Queen's University, I have developed agent-based simulation models with explicit spatial structure to contrast the role of clonal reproduction vs. life history in polyploid establishment (Van Drunen & Friedman, _in prep_). 
@@ -48,7 +48,7 @@ Previous comparative phylogenetic analyses on a large angiosperm-wide data set (
 I am currently analyzing large GTA-based datasets from several sources: (1) ~8,000 records of 717 species from community science platform iNaturalist (2018-2019). The figure on the right shows this data for two clover species, using distance to urban centre as a measure of urbanization; (2) Toronto and Region Conservation Authority (TRCA) survey data and ~95,000 point observations; and (3) Specimens in the ROM Green Plant Herbarium between the years 1838-2020. 
 <br>
 <br>
-Stay tuned for more coming soon! 
+Stay tuned for more! 
 
 ## Reproductive Strategies in Clonal Plants
 
