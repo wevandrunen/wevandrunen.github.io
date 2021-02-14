@@ -11,7 +11,7 @@ header:
 excerpt: Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
 intro:
-  - image_path: /assets/images/Me&Monty.JPG
+  - image_path: /assets/images/thumbnail_20200917_103515 (2).jpg
     alt: "colchicine"
     title: "About Me"
     excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am currently a postdoc with [Dr. Jannice Friedman](https://friedmanlab.ca/) at Queen's University, where I am using *Mimulus guttatus* to study the effects of whole-genome duplication (WGD) on life history traits. <br> <br> I completed my PhD with [Dr. Brian Husband](https://www.husbandlab.ca/index.html) at the University of Guelph, and my MSc with [Dr. Marcel Dorken](https://madorken.github.io/DorkenLab_Trent/index.html) at Trent University. <br> <br> See my CV for more details. 
