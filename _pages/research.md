@@ -14,6 +14,8 @@ last_modified_at: 13 February 2021
 
 Polyploidy (3 or more chromosome sets) is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied. 
 
+### Polyploidy in Natural Populations
+
 ## Phenotypic Shifts in Neopolyploids
 
 ![](../assets/images/Dip and tet2 small.jpg){: .align-right} Autopolyploids (polyploids arising within a single species) frequently exhibit divergent phenotypes from their diploid parents (e.g., plant size, see diploid vs. neotetraploid _Fragaria vesca_ on the right). Changes can happen immediately following the WGD event, or they may arise over many generations if cytotypes are subject to different selective pressures. But since newly arisen neo-polyploids are only rarely observed in nature, we often can't disentangle the short- vs. long-term effects of WGD _per se_ on individual phenotypes. This means that the phenotypic changes that occur in neopolyploids during the critical establishment period just-post-WGD are largely unknown.
@@ -27,9 +29,6 @@ Current research with _Mimulus guttatus_ is exploring the effects of WGD on life
 
 ## Reproductive Strategies in Clonal Plants
 
-![](../assets/images/20160708_090719.jpg){: .align-left} stuff. 
-<br>
-<br>
-![](../assets/images/20160708_090719.jpg){: .align-right} More stuff.
+
 
 
