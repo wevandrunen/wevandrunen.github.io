@@ -13,4 +13,4 @@ header:
 
 ---
 
-![image-left](../assets/images/colchicinepic.jpg){: .align-left} Who doesn't love treating tiny seedlings with horrible chemicals to made polyploids?
+![image-right](../assets/images/colchicinepic.jpg){: .align-right} Download my CV through the link on the header.
