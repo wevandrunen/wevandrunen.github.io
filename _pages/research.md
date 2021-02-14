@@ -42,13 +42,7 @@ I am particularly interested in the impact of reproductive and life history stra
 {% include figure image_path="/assets/images/sim.jpg" alt="this is a placeholder image" caption="A polyploid clone (green cells) expands into a simulated population of diploids (grey cells). Coloured cells are new, sexually produced polyploids." type=center %}
 
 ## Polyploid vs. Diploid Species in Urban Environments
-Urban areas are predicted to be hotspots of polyploid speciation, and fast-growing urban landscapes offer a unique chance to observe polyploid formation and evolution on a contemporary timescale. For example, differences in tolerance to urban environments between diploids and polyploids (between __and__ within species) may result in biogeographical shifts, as diploids are outcompeted and displaced by polyploids over time. This may be compounded by a human-driven increase in invasive, horticultural, and commensal species in urban areas, many of which are polyploid. These changes in community-level ploidy variation could greatly affect ecological interactions (e.g., pollinators), and ultimately influence how plants respond to urban environments and global change. 
-<br>
-<br>
-I am currently analyzing several datasets from the Greater Toronto Area (GTA): (1) ~8,000 records of 717 species from community science platform iNaturalist (2018-2019). The figure below shows this data for two clover species (_Trifolium_), using distance to urban centre as a measure of urbanization; (2) Toronto and Region Conservation Authority (TRCA) survey data and ~95,000 point observations; and (3) Specimens in the ROM Green Plant Herbarium between the years 1838-2020 (~15 000 records). 
-<br>
-{% include figure image_path="/assets/images/inaturalist.jpg" alt="this is a placeholder image" caption="LEFT: iNaturalist observations for diploid _Trifolium pratense_ (N=75), and tetraploid _T. repens_ (N=66) in the GTA. Urban and suburban areas are in light colours, natural areas in green. RIGHT: Preliminary analyses show that the mean distance to the urban centre (Yonge-Dundas Square, black star) is marginally lower for polyploid _T. repens_" type=left %}
-Stay tuned for more!
+Stay tuned!
 <br>
 <br>
 
