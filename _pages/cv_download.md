@@ -3,6 +3,7 @@ title: " "
 layout: single
 permalink: /cv_download/
 author_profile: true
+classes: wide
 date: 2021-02-13
 header:
   overlay_color: "#000"
