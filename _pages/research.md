@@ -49,7 +49,6 @@ I am currently analyzing several datasets from the Greater Toronto Area (GTA): (
 <br>
 {% include figure image_path="/assets/images/inaturalist.jpg" alt="this is a placeholder image" caption="LEFT: iNaturalist observations for diploid _Trifolium pratense_ (N=75), and tetraploid _T. repens_ (N=66) in the GTA. Urban and suburban areas are in light colours, natural areas in green. RIGHT: Preliminary analyses show that the mean distance to the urban centre (Yonge-Dundas Square, black star in A) is marginally lower for polyploid _T. repens_" type=left %}
 <br>
-<br>
 Stay tuned for more!
 <br>
 <br>
