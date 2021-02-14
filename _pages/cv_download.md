@@ -12,4 +12,5 @@ header:
     - label: "Download CV"
 
 ---
-{% include figure image_path="/assets/images/colchicinepic.jpg" alt="this is a placeholder image" caption="Who doesn't love treating tiny seedlings with horrible chemicals to made polyploids?" type=center %}
+
+![image-left](../assets/images/colchicinepic.jpg){: .align-left} Who doesn't love treating tiny seedlings with horrible chemicals to made polyploids?
