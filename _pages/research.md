@@ -14,7 +14,7 @@ last_modified_at: 13 February 2021
 
 Polyploidy (3 or more chromosome sets) is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied. 
 
-### Polyploidy in Natural Populations
+# Polyploidy in Natural Populations
 
 ## Phenotypic Shifts in Neopolyploids
 
