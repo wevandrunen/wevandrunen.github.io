@@ -14,4 +14,4 @@ header:
 
 ---
 
-![image-right](../assets/images/colchicinepic.jpg){: .align-right} Download my CV through the link on the header.
+Download my CV through the link on the header.
