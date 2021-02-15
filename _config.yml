@@ -39,7 +39,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Wendy E. Van Drunen"
+  name             : "Dr. Wendy E. Van Drunen <br>"
   avatar           : "/assets/images/Me&Monty.JPG"
   #bio              : ""
   location         : #"Somewhere"
