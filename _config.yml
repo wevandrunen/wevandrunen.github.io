@@ -41,7 +41,7 @@ analytics:
 author:
   name             : "Wendy E. Van Drunen, PhD"
   avatar           : "/assets/images/Me&Monty.JPG"
-  bio              : "Postdoctoral Researcher <br> Queen's University"
+  #bio              : ""
   location         : #"Somewhere"
   email            : wevd@queensu.ca
   links:
