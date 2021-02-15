@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/IMG_3297edit.jpg
-excerpt: <br> __Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
+excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
 
 intro:
   - image_path: /assets/images/thumbnail_20200917_103515 (2).jpg
