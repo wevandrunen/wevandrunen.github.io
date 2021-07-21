@@ -30,7 +30,7 @@ Polyploidy (3 or more chromosome sets) is remarkably common among plants; approx
 During my PhD at the University of Guelph, I used synthetic lab-generated neopolyploids in the first studies to to quantify the immediate effects of WGD on investment in clonal reproduction. I found that the effects of WGD on clonality differ both within ([Van Drunen & Husband 2018a](https://doi.org/10.1002/ajb2.1159 )), and between species ([Van Drunen & Husband 2018b](https://doi.org/10.1093/aob/mcy071)). Furthermore, patterns of clonal reproduction in naturally-occuring tetraploid _Chamerion angustifolium_ were more similar to diploids than to synthetic neotetraploids! These studies suggest that phenotypic effects of WGD are complex, context dependent, and may result in considerable variation among neopolyploids. 
 <br>
 <br>
-![image-right](../assets/images/MimGrowout1.jpg){: .align-right} Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from annual and perennial populations across this species range.
+Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from annual and perennial populations across this species range.
 <br>
 <br>
 
@@ -44,7 +44,7 @@ I am particularly interested in the impact of reproductive and life history stra
 <br>
 
 ## Polyploid vs. Diploid Species in Urban Environments
-![image-right](../assets/images/urbanpolyploids_small.jpg){: .align-right} Stay tuned!
+![image-right](../assets/images/urbanpolyploids_small.jpg){: .align-right} Polyploidy is not evenly distributed among plant groups, nor are rates of WGD uniform across time. Many studies have linked bursts of WGDs to periods of climatic upheaval, such as the Cretaceous-Paleogene extinction, and have credited polyploidy as an important factor in the survival and success of plant lineages during and after these events. Currently, plants are facing new environmental challenges associated with anthropogenic change - few of which are more extreme than the development of densely urbanised settlements. Considering polyploidy in the context of urbanisation provides a unique opportunity to observe polyploidy "in action", and may allow us to address fundamental questions in polyploid evolution and ecology that are difficult to study in natural populations. This is a promising and novel approach, and I am conducting the first studies on urban polyploidy in collaboration with Marc Johnson at the University of Toronto Mississagua.
 <br>
 <br>
 
