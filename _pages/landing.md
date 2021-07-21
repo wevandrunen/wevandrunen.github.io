@@ -1,6 +1,6 @@
 ---
 title: "Polyploid Evolution & Ecology"
-layout: single
+layout: splash
 permalink: /home/
 author_profile: true
 date: 2016-03-23T11:48:41-04:00
