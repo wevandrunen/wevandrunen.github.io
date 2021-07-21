@@ -18,6 +18,12 @@ intro:
     # url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
+  - image_path: /assets/images/sim_schematic.tif
+    alt: "Fragaria"
+    title: " "
+    excerpt: " "
+    # btn_label: "Continue"
+    # btn_class: "btn--primary"  
 
 feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
