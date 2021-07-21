@@ -19,7 +19,7 @@ intro:
     # btn_label: "Continue"
     # btn_class: "btn--primary"
   - image_path: /assets/images/sim_schematic.jpg
-    alt: "Fragaria"
+    alt: "simulation"
     title: " "
     excerpt: " "
     # btn_label: "Continue"
@@ -62,7 +62,7 @@ feature_row:
 
 ---
 
-{% include feature_row id="intro" type="centre" %}
+{% include feature_row id="intro" %}
 
 {% include feature_rowB %}
 
