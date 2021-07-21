@@ -18,7 +18,7 @@ last_modified_at: 13 February 2021
 <br>
 <br>
 
-# What are the eco-evolutionary causes and consequences of polyploidy in natural systems?
+# What are the eco-evolutionary causes and consequences of polyploidy in natural and urban systems?
 
 Polyploidy (3 or more chromosome sets) is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied, especially in non-crop/non-model systems. I concentrate on the impact of phenotypic divergence between diploids and polyploids, in both natural populations and urban environments.
 
@@ -45,6 +45,7 @@ I am particularly interested in the impact of reproductive and life history stra
 Stay tuned!
 <br>
 <br>
+![image-right](../assets/images/LabellingFigs_sv20.5_sv40.9_mating.jpg){: .align-right}
 
 # Reproductive Strategies in Clonal Plants
 
