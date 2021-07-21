@@ -13,6 +13,9 @@ last_modified_at: 12 Feb 2021
 ---
 You can find the most up to date list on my [Google Scholar page](https://scholar.google.ca/citations?user=0Clkv4YAAAAJ&hl=en).
 
+## Under review
+
+{% include journal-articles-review.html %}
 
 ## Peer-reviewed
 
