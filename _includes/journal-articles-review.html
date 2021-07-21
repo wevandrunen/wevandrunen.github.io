@@ -1,5 +1,4 @@
-<ol reversed="reversed">
-  {% for paper in site.data.journal-articles-review %}
+{% for paper in site.data.journal-articles-review %}
   <li>
     <p>
       {{ paper.authors | markdownify | | remove: "<p>" | remove: "</p>"}} {{ paper.title | markdownify | | remove: "<p>" | remove: "</p>"}} <em>{{ paper.journal }}</em>.
@@ -9,5 +8,5 @@
       <!--         {% if paper.openaccess == true %}<i class="fas fa-unlock-alt"></i>{% endif %} -->
     </p>
   </li>
-  {% endfor %}
-</ol>
+{% endfor %}
+
