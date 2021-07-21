@@ -31,6 +31,8 @@ During my PhD at the University of Guelph, I used synthetic lab-generated neopol
 <br>
 <br>
 ![image-right](../assets/images/MimGrowout1.jpg){: .align-right} Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from annual and perennial populations across this species range.
+<br>
+<br>
 
 ## Reproduction, Life History Strategies, and Polyploid Establishment
 
@@ -42,7 +44,7 @@ I am particularly interested in the impact of reproductive and life history stra
 <br>
 
 ## Polyploid vs. Diploid Species in Urban Environments
-Stay tuned!
+![image-right](../assets/images/urbanpolyploids_small.jpg){: .align-right} Stay tuned!
 <br>
 <br>
 
