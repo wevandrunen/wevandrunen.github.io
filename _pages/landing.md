@@ -13,18 +13,6 @@ excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br>
 intro:
   - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am currently a postdoc with [Dr. Jannice Friedman](https://friedmanlab.ca/) at Queen's University, where I am using *Mimulus guttatus* to study the effects of whole-genome duplication (WGD) on life history traits. <br> <br> I completed my PhD with [Dr. Brian Husband](https://www.husbandlab.ca/index.html) at the University of Guelph, and my MSc with [Dr. Marcel Dorken](https://madorken.github.io/DorkenLab_Trent/index.html) at Trent University. <br> <br> See my CV for more details. 
 
-feature_row1:
-  - image_path: /assets/images/thumbnail_20200917_103515 (2).jpg
-    alt: "Mimulus greenhouse headshot"
-    title: " "
-    excert: " "
-  - image_path: /assets/images/sim_schematic.jpg
-    alt: "simulation"
-    title: " "
-    excerpt: " "
-    # btn_label: "Continue"
-    # btn_class: "btn--primary"  
-
 feature_row2:
   - image_path: /assets/images/strawbsGTI resize.jpg
     alt: "Fragaria"
@@ -63,8 +51,6 @@ feature_row2:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row id="feature_row1" %}
 
 {% include feature_rowB id="feature_row2" %}
 
