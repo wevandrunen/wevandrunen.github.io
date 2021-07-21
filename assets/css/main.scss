@@ -9,7 +9,7 @@
 
 // cascade adjust font sizes
 html {
-  font-size: 10px; // change to whatever
+  font-size: 14px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 12px; // change to whatever
