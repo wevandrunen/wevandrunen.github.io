@@ -66,7 +66,7 @@ feature_row2:
 
 {% include feature_row id="feature_row1" %}
 
-{% include feature_rowB %}
+{% include feature_rowB id="feature_row2" %}
 
 <!-- {% include figure image_path="/assets/images/20201028_094702_HDR (2).jpg" caption="This is a figure caption." %}
 
