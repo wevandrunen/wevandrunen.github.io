@@ -18,7 +18,7 @@ intro:
     # url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/sim_schematic.tif
+  - image_path: /assets/images/sim_schematic.jpg
     alt: "Fragaria"
     title: " "
     excerpt: " "
@@ -62,7 +62,7 @@ feature_row:
 
 ---
 
-{% include feature_rowB id="intro" type="left" %}
+{% include feature_row id="intro" type="centre" %}
 
 {% include feature_rowB %}
 
