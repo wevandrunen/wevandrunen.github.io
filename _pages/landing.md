@@ -8,10 +8,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/IMG_3297edit.jpg
-excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br> Department of Biology <br> Queen's University
+excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br> Department of Biology <br> University of Toronto at Mississauga
 
 intro:
-  - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am currently a postdoc with [Dr. Jannice Friedman](https://friedmanlab.ca/) at Queen's University, where I am using *Mimulus guttatus* to study the effects of whole-genome duplication (WGD) on life history traits. <br> <br> I completed my PhD with [Dr. Brian Husband](https://www.husbandlab.ca/index.html) at the University of Guelph, and my MSc with [Dr. Marcel Dorken](https://madorken.github.io/DorkenLab_Trent/index.html) at Trent University. <br> <br> See my CV for more details. 
+  - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am currently a postdoc with [Dr. Marc Johnson](https://evoecolab.wordpress.com/) at the University of Toronto Mississauga, where I am using theory to build a framework for predicting and interpreting patterns of evolution in urban environments, as well as exploring interactions between urbanisation and polyploidy in plants. <br> <br> I was a postdoc with [Dr. Jannice Friedman](https://friedmanlab.ca/) at Queen's University from 2019-2021, using *Mimulus guttatus* to study the effects of whole-genome duplication (WGD) on life history traits. I completed my PhD with [Dr. Brian Husband](https://www.husbandlab.ca/index.html) at the University of Guelph, and my MSc with [Dr. Marcel Dorken](https://madorken.github.io/DorkenLab_Trent/index.html) at Trent University. <br> <br> See my CV for more details. 
 
 feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
