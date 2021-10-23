@@ -17,6 +17,10 @@ You can find the most up to date list on my [Google Scholar page](https://schola
 
 {% include journal-articles-review.html %}
 
+## Preprints
+
+{% include journal-articles-preprint.html %}
+
 ## Peer-reviewed
 
 {% include journal-articles.html %}
