@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wendy E. Van Drunen"
+title                    : "Wendy Van Drunen, PhD"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wendy E. Van Drunen"
@@ -26,7 +26,7 @@ url                      : "https://wevandrunen.github.io"
 repository               : wevandrunen/wevandrunen.github.io 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/thumbnail small.jpg"
-masthead_title           : "Wendy E. Van Drunen" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Wendy Van Drunen, PhD" # overrides the website title displayed in the masthead, use " " for no title
 
 
 # Analytics
