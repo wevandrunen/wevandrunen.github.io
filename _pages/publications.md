@@ -13,13 +13,13 @@ last_modified_at: 12 Feb 2021
 ---
 You can find the most up to date list on my [Google Scholar page](https://scholar.google.ca/citations?user=0Clkv4YAAAAJ&hl=en).
 
-## In Review
-
-{% include journal-articles-review.html %}
-
-## Preprints
-
-{% include journal-articles-preprint.html %}
+# ## In Review
+#
+# {% include journal-articles-review.html %}
+#
+# ## Preprints
+#
+# {% include journal-articles-preprint.html %}
 
 ## Peer Reviewed
 
