@@ -9,7 +9,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.10"
   overlay_image: /assets/images/Mim greenhouse.jpg
-last_modified_at: 13 February 2021
 ---
 
 ![image-right](../assets/images/colchicinepic.jpg){: .align-right} My research is motivated by two broad questions:
