@@ -42,6 +42,10 @@ gallery1:
     image_path: /assets/images/BruceWater.jpg
     alt: "Bruce Water"
     title: "Bruce Trail II, watercolour on paper. 7x10 inches"
+  - url: /assets/images/MK.jpg
+    image_path: /assets/images/MK.jpg
+    alt: "MK"
+    title: "Miss Kitty (master study of Franz Marc's Cat on a Yellow Pillow), acrylic on canvas. 12x16 inches"
 
 gallery2:
   - url: /assets/images/Streptocarpus.jpg
