@@ -54,7 +54,7 @@ gallery2:
     title: "Streptocarpus ionanthus (African Violet), watercolour on paper. 10x14 inches"
 ---
 
-I primarily work in watercolour and acrylic, taking inspiration from the natural world -- especially plants! Through my artwork I hope to show some of the wonderful biology and nature that surrounds us every day, but that we may not always take the time to stop and really see. <br><br> Please do not use any images without permission. <br><br>
+I primarily work in watercolour and acrylic, taking inspiration from the natural world -- especially plants! Through my artwork I hope to show some of the wonderful biology and nature that surrounds us every day, but that we may not always take the time to stop and really see. <br><br> Interested in a commission, or need an illustration for your next publication? Get in touch! <br><br> Please do not use any images without permission. <br><br>
 
 {% include gallery id="gallery1" caption="" %}
 
