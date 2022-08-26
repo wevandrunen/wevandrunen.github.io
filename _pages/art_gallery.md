@@ -9,7 +9,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/20220826_114741 (2).jpg
 
-gallery:
+gallery1:
   - url: /assets/images/uSpringViolets.jpg
     image_path: /assets/images/SpringViolets.jpg
     alt: "Spring Violets"
@@ -34,10 +34,6 @@ gallery:
     image_path: /assets/images/Tomatoes.jpg
     alt: "Tomatoes"
     title: "Tomatoes, watercolour on paper. 9x12 inches"
-  - url: /assets/images/Streptocarpus.jpg
-    image_path: /assets/images/Streptocarpus.jpg
-    alt: "Streptocarpus"
-    title: "Streptocarpus ionanthus (African Violet), watercolour on paper. 10x14 inches"
   - url: /assets/images/SoldierBeetle.jpg
     image_path: /assets/images/SoldierBeetle.jpg
     alt: "Soldier Beetle"
@@ -46,9 +42,17 @@ gallery:
     image_path: /assets/images/BruceWater.jpg
     alt: "Bruce Water"
     title: "Bruce Trail II, watercolour on paper. 7x10 inches"
+
+gallery2:
+  - url: /assets/images/Streptocarpus.jpg
+    image_path: /assets/images/Streptocarpus.jpg
+    alt: "Streptocarpus"
+    title: "Streptocarpus ionanthus (African Violet), watercolour on paper. 10x14 inches"
 ---
 
 I primarily work in watercolour and acrylic, taking inspiration from the natural world -- especially plants! Through my artwork I hope to show some of the wonderful biology and nature that surrounds us every day, but that we may not always take the time to stop and really see. <br><br> Please do not use any images without permission. <br><br>
 
-{% include gallery caption="" %}
+{% include gallery id="gallery1" caption="" %}
 
+Botanical Illustrations:
+{% include gallery id="gallery2" caption="" %}
