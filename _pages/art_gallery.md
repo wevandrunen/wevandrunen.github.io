@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/20220826_114741 (2).jpg
 
 gallery1:
-  - url: /assets/images/uSpringViolets.jpg
+  - url: /assets/images/SpringViolets.jpg
     image_path: /assets/images/SpringViolets.jpg
     alt: "Spring Violets"
     title: "Spring Violets, watercolour on paper. 9x12 inches"
