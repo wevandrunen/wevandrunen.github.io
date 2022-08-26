@@ -8,5 +8,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/20220826_114741 (2).jpg
-
 ---
+
+I primarily work in watercolour and acrylic, taking inspiration from the natural world -- especially plants! Through my artwork I hope to convey some of the wonderful creatures and ecology that surround us every day, but that we may not always take the time to stop and see.
