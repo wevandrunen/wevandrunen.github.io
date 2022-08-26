@@ -21,7 +21,7 @@ feature_row:
     url: /research/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/fireweed_butterfly (2) resize.jpg
+  - image_path: /assets/images/greenhousemimulus resize.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Chamerion"
     title: "Publications"
@@ -29,12 +29,12 @@ feature_row:
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/greenhousemimulus resize.jpg
+  - image_path: /assets/images/PecksSkipper_nomark.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Mimulus"
-    title: "CV"
+    title: "Art Gallery"
     excerpt: " "
-    url: /cv_download/
+    url: /art_gallery/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
 
