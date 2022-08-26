@@ -45,7 +45,7 @@ gallery1:
   - url: /assets/images/MK.jpg
     image_path: /assets/images/MK.jpg
     alt: "MK"
-    title: "Miss Kitty (master study of Franz Marc's Cat on a Yellow Pillow), acrylic on canvas. 12x16 inches"
+    title: "Miss Kitty, acrylic on canvas. 12x16 inches (master study of Franz Marc's Cat on a Yellow Pillow)"
 
 gallery2:
   - url: /assets/images/Streptocarpus.jpg
