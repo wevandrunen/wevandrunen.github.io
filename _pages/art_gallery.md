@@ -4,7 +4,6 @@ layout: single
 permalink: /art_gallery/
 author_profile: true
 classes: wide
-date: 2021-02-13
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
