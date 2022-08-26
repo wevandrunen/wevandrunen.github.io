@@ -29,9 +29,9 @@ feature_row:
     url: /publications/
     # btn_label: "Continue"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/PecksSkipper_nomark.jpg
+  - image_path: /assets/images/PecksSkipperResize.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Mimulus"
+    alt: "Skipper"
     title: "Art Gallery"
     excerpt: " "
     url: /art_gallery/
