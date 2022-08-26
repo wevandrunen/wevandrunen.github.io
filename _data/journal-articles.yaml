@@ -1,4 +1,24 @@
 ---
+- id: Van Drunen & Friedman 2021
+  authors: __Van Drunen W.E.__, J. Friedman.
+  title: Autopolyploid establishment depends on life history strategy and the mating outcomes of clonal architecture.
+  journal: Evolution
+  year: 2022
+  volume: 
+  pages: 
+  openaccess: false
+  pdf-url:  https://doi.org/10.1111/evo.14582
+  
+- id: Van Drunen & Johnson 2022
+  authors: __Van Drunen W.E.__, M.T.J. Johnson.
+  title: Polyploidy in urban environments.
+  journal: Trends in Ecology and Evolution
+  year: 2022
+  volume: 37
+  pages: 507-516
+  openaccess: false
+  pdf-url: https://doi.org/10.1016/j.tree.2022.02.005
+  
 - id: Van Drunen 2019
   authors: __Van Drunen W.E.__, B.C. Husband.
   title: Evolutionary associations between polyploidy, clonal reproduction, and perenniality in the angiosperms.
