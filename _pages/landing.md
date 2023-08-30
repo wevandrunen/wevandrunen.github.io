@@ -11,7 +11,7 @@ header:
 excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br> Department of Biology <br> University of Toronto at Mississauga
 
 intro:
-  - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am currently a postdoc with [Dr. Marc Johnson](https://evoecolab.wordpress.com/) at the University of Toronto Mississauga, where I am using theory to build a framework for predicting and interpreting patterns of evolution in urban environments, as well as exploring interactions between urbanisation and polyploidy in plants. <br> <br> I am also an artist and certified botanical illustrator. Check out some of my work on the gallery page! <br> <br>  
+  - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am also an artist and certified botanical illustrator. Check out some of my work on the gallery page! <br> <br>  
 
 feature_row:
   - image_path: /assets/images/strawbsGTI resize.jpg
