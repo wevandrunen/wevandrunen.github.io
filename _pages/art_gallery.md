@@ -45,10 +45,10 @@ gallery1:
 
 
 gallery2:
-  - url: /assets/images/Streptocarpus.jpg
-    image_path: /assets/images/Streptocarpus.jpg
-    alt: "Streptocarpus"
-    title: "Streptocarpus ionanthus (African Violet), watercolour on paper. 10x14 inches"
+  - url: /assets/images/2023update/gouache/bcmountains.jpg
+    image_path: /assets/images/2023update/gouache/bcmountains.jpg
+    alt: " "
+    title: " "
 ---
 
 I primarily work in watercolour and gouache, taking inspiration from the natural world -- especially plants! Through my artwork I hope to show some of the wonderful biology and nature that surrounds us every day, but that we may not always take the time to stop and really see. <br><br> Check out my [Instagram](https://www.instagram.com/we.vandrunen.art/) to see what I'm currently working on! <br><br> 
