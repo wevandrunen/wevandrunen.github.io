@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/IMG_3297edit.jpg
-excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Postdoctoral Researcher <br> <br> Department of Biology <br> University of Toronto at Mississauga
+excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Evolutionary Ecologist <br> <br> Botanical & Natural History Illustrator 
 
 intro:
   - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, computational methods, and theoretical models. <br> <br> I am also an artist and certified botanical illustrator. Check out some of my work on the gallery page! <br> <br>  
