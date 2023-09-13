@@ -15,7 +15,7 @@ gallery1:
     alt: " "
     title: " "
   - url: /assets/images/2023update/catalpaflower.jpg
-    image_path: /assets/images/2023update/catalphaflower.jpg
+    image_path: /assets/images/2023update/catalpaflower.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/hibiscus.jpg
