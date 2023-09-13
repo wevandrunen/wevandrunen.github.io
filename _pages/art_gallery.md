@@ -26,6 +26,22 @@ gallery1:
     image_path: /assets/images/2023update/icelandicpoppy.jpg
     alt: " "
     title: " "
+  - url: /assets/images/2023update/pinkrose.jpg
+    image_path: /assets/images/2023update/pinkrose.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/lilac.jpg
+    image_path: /assets/images/2023update/lilac.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/violet.jpg
+    image_path: /assets/images/2023update/violet.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/purpletulip.jpg
+    image_path: /assets/images/2023update/purpletulip.jpg
+    alt: " "
+    title: " "
 
 
 gallery2:
