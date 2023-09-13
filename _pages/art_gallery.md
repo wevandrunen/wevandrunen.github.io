@@ -14,16 +14,16 @@ gallery1:
     image_path: /assets/images/2023update/anemone.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/catalpaflower.jpg
-    image_path: /assets/images/2023update/catalpaflower.jpg
+  - url: /assets/images/2023update/sweetpeas.jpg
+    image_path: /assets/images/2023update/sweetpeas.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/hibiscus.jpg
-    image_path: /assets/images/2023update/hibiscus.jpg
+  - url: /assets/images/2023update/strawberry.jpg
+    image_path: /assets/images/2023update/strawberry.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/icelandicpoppy.jpg
-    image_path: /assets/images/2023update/icelandicpoppy.jpg
+  - url: /assets/images/2023update/blueiris.jpg
+    image_path: /assets/images/2023update/blueiris.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/pinkrose.jpg
@@ -34,12 +34,20 @@ gallery1:
     image_path: /assets/images/2023update/lilac.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/violet.jpg
-    image_path: /assets/images/2023update/violet.jpg
+  - url: /assets/images/2023update/catalpaflower.jpg
+    image_path: /assets/images/2023update/catalpaflower.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/purpletulip.jpg
     image_path: /assets/images/2023update/purpletulip.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/pecksskipper.jpg
+    image_path: /assets/images/2023update/pecksskipper.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/nightshade.jpg
+    image_path: /assets/images/2023update/nightshade.jpg
     alt: " "
     title: " "
 
