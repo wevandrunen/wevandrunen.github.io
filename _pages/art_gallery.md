@@ -10,16 +10,16 @@ header:
   overlay_image: /assets/images/20220826_114741 (2).jpg
 
 gallery1:
-  - image_path: /assets/images/2023update/anemone.jpg
+  - url: /assets/images/2023update/anemone.jpg
     alt: " "
     title: " "
-  - image_path: /assets/images/2023update/catalpaflower.jpg
+  - url: /assets/images/2023update/catalpaflower.jpg
     alt: " "
     title: " "
-  - image_path: /assets/images/2023update/hibiscus.jpg
+  - url: /assets/images/2023update/hibiscus.jpg
     alt: " "
     title: " "
-  - image_path: /assets/images/2023update/icelandicpoppy.jpg
+  - url: /assets/images/2023update/icelandicpoppy.jpg
     alt: " "
     title: " "
 
