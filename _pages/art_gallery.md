@@ -50,11 +50,19 @@ gallery1:
     image_path: /assets/images/2023update/nightshade.jpg
     alt: " "
     title: " "
+  - url: /assets/images/2023update/snail.jpg
+    image_path: /assets/images/2023update/snail.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/violet.jpg
+    image_path: /assets/images/2023update/violet.jpg
+    alt: " "
+    title: " "
 
 
 gallery2:
-  - url: /assets/images/2023update/gouache/bcmountains.jpg
-    image_path: /assets/images/2023update/gouache/bcmountains.jpg
+  - url: /assets/images/2023update/gouache/northont.jpg
+    image_path: /assets/images/2023update/gouache/northont.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/gouache/badlands.jpg
@@ -73,8 +81,8 @@ gallery2:
     image_path: /assets/images/2023update/gouache/creditriver.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/gouache/northont.jpg
-    image_path: /assets/images/2023update/gouache/northont.jpg
+  - url: /assets/images/2023update/gouache/bcmountains.jpg
+    image_path: /assets/images/2023update/gouache/bcmountains.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/gouache/peishore.jpg
