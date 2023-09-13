@@ -10,22 +10,11 @@ header:
   overlay_image: /assets/images/20220826_114741 (2).jpg
 
 gallery1:
-  - url: /assets/images/2023update/20230907_130136.jpg
-    image_path: /assets/images/2023update/20230907_130136.jpg
-    alt: "Spring Violets"
-    title: "Spring Violets, watercolour on paper. 9x12 inches"
-  - url: /assets/images/2023update/20230907_130149.jpg
-    image_path: /assets/images/2023update/20230907_130149.jpg
-    alt: "Peck's Skipper"
-    title: "Peck's Skipper, watercolour on paper. 7x10 inches"
-  - url: /assets/images/2023update/20230907_130259.jpg
-    image_path: /assets/images/2023update/20230907_130259.jpg
-    alt: "Bruce Rocks"
-    title: "Bruce Trail I, watercolour on paper. 7x10 inches"
-  - url: /assets/images/2023update/20230907_130309.jpg
-    image_path: /assets/images/2023update/20230907_130309.jpg
-    alt: "Roses & Fence"
-    title: "Roses & Fence, watercolour on paper. 4x6 inches"
+  - url: /assets/images/2023update/anemone.jpg
+    image_path: /assets/images/2023update/anemone.jpg
+    alt: " "
+    title: " "
+
 
 
 gallery2:
