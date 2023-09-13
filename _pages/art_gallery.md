@@ -84,9 +84,9 @@ gallery2:
     
 ---
 
-I primarily work in watercolour and gouache, taking inspiration from the natural world -- especially plants! Through my artwork I hope to show some of the wonderful biology and nature that surrounds us every day, but that we may not always take the time to stop and really see. <br><br> Check out my [Instagram](https://www.instagram.com/we.vandrunen.art/) to see what I'm currently working on! <br><br> 
+I primarily work in watercolour and gouache, taking inspiration from the natural world -- especially plants! Through my artwork I hope to show some of the wonderful biology and nature that surrounds us every day, but that we may not always take the time to stop and really see. <br><br> You can find some examples of my work below, and check out my [Instagram](https://www.instagram.com/we.vandrunen.art/) to see what I'm currently working on! <br><br> 
 
-__Botanical Illustrations:__
+__Botanical & Natural History Illustrations:__
 {% include gallery id="gallery1" caption="" %}
 
 __Gouache & Landscapes:__
