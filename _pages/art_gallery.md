@@ -11,15 +11,19 @@ header:
 
 gallery1:
   - url: /assets/images/2023update/anemone.jpg
+    image_path: /assets/images/2023update/anemone.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/catalpaflower.jpg
+    image_path: /assets/images/2023update/catalphaflower.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/hibiscus.jpg
+    image_path: /assets/images/2023update/hibiscus.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/icelandicpoppy.jpg
+    image_path: /assets/images/2023update/icelandicpoppy.jpg
     alt: " "
     title: " "
 
