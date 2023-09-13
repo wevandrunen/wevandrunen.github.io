@@ -18,12 +18,12 @@ gallery1:
     image_path: /assets/images/2023update/sweetpeas.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/strawberry.jpg
-    image_path: /assets/images/2023update/strawberry.jpg
-    alt: " "
-    title: " "
   - url: /assets/images/2023update/blueiris.jpg
     image_path: /assets/images/2023update/blueiris.jpg
+    alt: " "
+    title: " "
+  - url: /assets/images/2023update/strawberry.jpg
+    image_path: /assets/images/2023update/strawberry.jpg
     alt: " "
     title: " "
   - url: /assets/images/2023update/pinkrose.jpg
@@ -54,8 +54,8 @@ gallery1:
     image_path: /assets/images/2023update/snail.jpg
     alt: " "
     title: " "
-  - url: /assets/images/2023update/violet.jpg
-    image_path: /assets/images/2023update/violet.jpg
+  - url: /assets/images/2023update/fireweed.jpg
+    image_path: /assets/images/2023update/fireweed.jpg
     alt: " "
     title: " "
 
