@@ -1,5 +1,5 @@
 ---
-title: "Polyploid Evolution & Ecology"
+title: "Wendy Van Drunen"
 layout: splash
 permalink: /
 author_profile: true
@@ -8,7 +8,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/IMG_3297edit.jpg
-excerpt: <br> __Dr. Wendy E. Van Drunen__ <br> Evolutionary Ecologist <br> <br> Botanical & Natural History Illustrator 
+excerpt: Evolutionary Ecologist, PhD <br> <br> Botanical & Natural History Illustrator 
+# <br> __Dr. Wendy E. Van Drunen__ <br>
 
 intro:
   - excerpt: My scientific research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, phylogenetic analysis, computational methods, and theoretical models. <br> <br> I am also an artist and certified botanical illustrator. Check out some of my work on the gallery page! <br> <br>  
