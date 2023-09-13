@@ -10,8 +10,7 @@ header:
   overlay_image: /assets/images/20220826_114741 (2).jpg
 
 gallery1:
-  - url: /assets/images/2023update/anemone.jpg
-    image_path: /assets/images/2023update/anemone.jpg
+  - image_path: /assets/images/2023update/anemone.jpg
     alt: " "
     title: " "
 
