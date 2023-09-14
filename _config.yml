@@ -43,7 +43,7 @@ author:
   avatar           : "/assets/images/Me&Monty.JPG"
   bio              : " "
   location         : #"Somewhere"
-  email            : " "
+  email            : #" "
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
