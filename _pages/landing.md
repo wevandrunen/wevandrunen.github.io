@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Wendy E. Van Drunen"
 layout: splash
 permalink: /
 author_profile: true
