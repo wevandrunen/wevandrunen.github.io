@@ -65,13 +65,15 @@ footer:
     - label: "Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.ca/citations?user=0Clkv4YAAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0003-1093-6665"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/WeVanDrunen
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/wevandrunen"
-
 
 
 # Reading Files
