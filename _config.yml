@@ -25,7 +25,7 @@ url                      : "https://wevandrunen.github.io"
 #baseurl                   : /landing # the subpath of your site, e.g. "/blog"
 repository               : wevandrunen/wevandrunen.github.io 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/2023update/20230509_142742-edit-20230510134714sq.jpg
+logo                     : " " #/assets/images/2023update/20230509_142742-edit-20230510134714sq.jpg
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 
 
