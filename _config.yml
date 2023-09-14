@@ -39,7 +39,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Wendy E. Van Drunen <br>"
+  name             : "Dr. Wendy E. Van Drunen" #when added bio I removed <br> from end, that gave extra space
   avatar           : "/assets/images/Me&Monty.JPG"
   bio              : "Evolutionary Ecologist & Artist"
   location         : #"Somewhere"
