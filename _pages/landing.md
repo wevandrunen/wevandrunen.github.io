@@ -11,6 +11,12 @@ header:
 excerpt: Evolutionary Ecologist, PhD <br> Botanical & Natural History Illustrator 
 # <br> __Dr. Wendy E. Van Drunen__ <br>
 
+![image-right](../assets/images/colchicinepic.jpg){: .align-right} My research is motivated by two broad questions:
+1. What are the eco-evolutionary causes and consequences of polyploidy?  
+2. How do sexual and asexual reproduction via clonal growth interact, and how does investment in clonal reproduction affect fitness?   
+<br>
+<br>
+
 intro:
   - image_path: /assets/images/strawbsGTI resize.jpg
   - excerpt: My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, phylogenetic analysis, computational methods, and theoretical models. <br> <br> I am also an artist and certified botanical illustrator. I emphasize the ecological and evolutionary stories of plants in my art. My goal is to use my paintings for science communication, by engaging people in order to create personal connections with plants and nature.  Check out some of my work on the gallery page! <br> <br>  
