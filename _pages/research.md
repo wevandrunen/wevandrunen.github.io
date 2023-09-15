@@ -12,6 +12,8 @@ header:
 ---
 
 My research explores the evolution and ecology of polyploid plants in both natural populations and urban ecosystems, with an emphasis on interactions between whole-genome duplication (WGD), polyploidy, and reproductive strategies. I use a variety of quantitative approaches; combining field work, experiments, phylogenetic analysis, computational methods, and theoretical models.
+<br>
+<br>
 
 ![image-right](../assets/images/colchicinepic.jpg){: .align-right} My research is motivated by two broad questions:
 1. What are the eco-evolutionary causes and consequences of polyploidy?  
