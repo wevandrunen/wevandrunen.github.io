@@ -11,11 +11,6 @@ header:
 excerpt: Evolutionary Ecologist, PhD <br> Botanical & Natural History Illustrator 
 # <br> __Dr. Wendy E. Van Drunen__ <br>
 
-![image-right](../assets/images/colchicinepic.jpg){: .align-right} My research is motivated by two broad questions:
-1. What are the eco-evolutionary causes and consequences of polyploidy?  
-2. How do sexual and asexual reproduction via clonal growth interact, and how does investment in clonal reproduction affect fitness?   
-<br>
-<br>
 
 intro:
   - image_path: /assets/images/strawbsGTI resize.jpg
