@@ -21,11 +21,11 @@ My research explores the evolution and ecology of polyploid plants in both natur
 <br>
 <br>
 
-# Polyploid Evolution and Ecology in Natural and Urban Systems
+# 1. Polyploid Evolution and Ecology in Natural and Urban Systems
 
-Polyploidy (3 or more chromosome sets) is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied, especially in non-crop/non-model systems. I concentrate on the impact of phenotypic divergence between diploids and polyploids, in both natural populations and urban environments.
+What is polyploidy anyway? Polyploidy is the presence of more than two chromosome sets, and is remarkably common among plants; approximately 35% of extant flowering-plant species are polyploid, and __all__ have experienced at least one ancient whole-genome duplication (WGD) event. Despite its high frequency of occurrence in this group, the role of polyploidy in the ecology and evolution of plant species is understudied, especially in non-crop/non-model systems. I concentrate on the impact of phenotypic divergence between diploids and polyploids, in both natural populations and urban environments.
 
-## Phenotypic Shifts in Neopolyploids
+### Phenotypic Shifts in Neopolyploids
 
 ![image-right](../assets/images/Dip and tet2 small.jpg){: .align-right} Autopolyploids (polyploids arising within a single species) frequently exhibit divergent phenotypes from their diploid parents (e.g., plant size, see diploid vs. neotetraploid _Fragaria vesca_ on the right). Changes can happen immediately following the WGD event, or they may arise over many generations if cytotypes are subject to different selective pressures. But since newly arisen neo-polyploids are only rarely observed in nature, we often can't disentangle the short- vs. long-term effects of WGD on individual phenotypes. 
 <br>
@@ -36,7 +36,7 @@ During my PhD at the University of Guelph, I used synthetic lab-generated neopol
 Current research with _Mimulus guttatus_ is exploring the immediate effects of WGD on life history and phenological traits, using a pool of ~100 newly synthesized neopolyploid lines from annual and perennial populations across this species range.
 <br>
 
-## Reproduction, Life History Strategies, and Polyploid Establishment
+### Reproduction, Life History Strategies, and Polyploid Establishment
 
 ![image-right](../assets/images/LabellingFigs_sv20.5_sv40.9_mating.jpg){: .align-right} Polyploid establishment in diploid populations is constrained by Minority Cytotype Exclusion (MCE), where rare polyploids have low fitness relative to diploids because most of their mating opportunities are between-cytotype. Species with traits that help overcome MCE are expected to produce successful polyploids. Many traits have been postulated to alleviate MCE (e.g., self-fertilization, assortative mating, asexual reproduction), but the mechanisms behind success or failure in the establishment process have proven difficult, or impossible, to study in natural populations. In my research, I combine fieldwork with experimental, theoretical, and computational methods to obtain a fuller picture of the role of these strategies in polyploid establishment.
 <br>
@@ -45,7 +45,7 @@ I am particularly interested in the impact of reproductive and life history stra
 <br>
 <br>
 
-## Polyploids in Urban Environments
+### Polyploids in Urban Environments
 ![image-right](../assets/images/urbanpolyploids_small.jpg){: .align-right} Polyploidy is not evenly distributed among plant groups, nor are rates of WGD uniform across time. Many studies have linked bursts of WGDs to periods of climatic upheaval, such as the Cretaceous-Paleogene extinction, and have credited polyploidy as an important factor in the survival and success of plant lineages during and after these events. Currently, plants are facing new environmental challenges associated with anthropogenic change - few of which are more extreme than the development of densely urbanised human settlements. Considering polyploidy in the context of urbanisation provides a unique opportunity to observe polyploidy "in action", and may allow us to address fundamental questions in polyploid evolution and ecology that are difficult to study in natural populations.
 <br>
 <br>
@@ -55,7 +55,7 @@ Preliminary research on polyploid vs. diploid plant species occurrence across 30
 
 # Reproductive Strategies in Clonal Plants
 
-## The Fitness Consequences of Clonality
+### The Fitness Consequences of Clonality
 The effect of clonality on sexual reproduction has traditionally been thought of as negative: it takes resources that could be invested in sex, and pollen transfer between shoots in the same clone can increase self-fertilization. But clonal reproduction is extremely common in plants (an estimated 50-75% of species), suggesting that investment in clonality must have fitness benefits in some situations. Because most mating occurs between near neighbours, the spatial architecture of clones should greatly influence sexual fitness (e.g., clones that have large spaces between shoots vs. densely packed shoots). 
 <br>
 <br>
@@ -64,7 +64,7 @@ In collaboration with Drs. Marcel Dorken and Mark van Kleunen, I developed numer
 <br>
 ![image-center](../assets/images/pnas.jpg){: .align-center}
 
-## Trade-offs Between Reproductive Modes
+### Trade-offs Between Reproductive Modes
 Life history theory predicts that trade-offs between sexual and clonal reproduction (the vegetative production of genetically identical daughter plants) should occur because individuals have a finite pool of resources to allocate between reproductive modes. These allocation patterns have direct effects on fitness, and are often under strong selection pressure. However, due to intershoot resource sharing and division of labour in clonal plants, it can be unclear whether the resource trade-offs within single shoots are generally present at the level of the entire genetic individual. 
 <br>
 <br>
