@@ -8,7 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /assets/images/IMG_3297edit.jpg
-excerpt: <font size="10" colour="red"> <span style="color:black"> <strong> <em>Hello!</em> </strong> </span> </font> <br> Evolutionary Ecologist, PhD <br> Botanical & Natural History Artist
+excerpt: <font size="10" colour="red"> <span style="color:black"> <strong>Dr. Wendy E. Van Drunen</strong> </span> </font> <br> Evolutionary Ecologist, PhD <br> Botanical & Natural History Artist
 # <br> __Dr. Wendy E. Van Drunen__ <br>
 
 
