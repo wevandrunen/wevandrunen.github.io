@@ -56,6 +56,8 @@ feature_row:
 
 ---
 
+{% include feature_row id="intro1" type="left" %}
+
 {% include feature_row id="intro" type="left" %}
 
 {% include feature_rowB %}
