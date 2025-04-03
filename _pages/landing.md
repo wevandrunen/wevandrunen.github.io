@@ -11,7 +11,8 @@ header:
 excerpt: <font size="7" colour="red"> <span style="color:white"> <strong>Dr. Wendy E. Van Drunen</strong> </span> </font> <br> Evolutionary Ecologist, PhD <br> Botanical & Natural History Artist
 # <br> __Dr. Wendy E. Van Drunen__ <br>
 
-##Check out my new website [evoecoart.com](www.evoecoart.com)
+intro1:
+- excerpt: <font size="6"> Check out my new website [evoecoart.com](www.evoecoart.com)
 
 intro:
   - image_path: /assets/images/2023update/landingbio2.jpg
