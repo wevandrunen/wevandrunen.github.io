@@ -53,9 +53,9 @@ feature_row:
 
 ---
 
-####Check out my new [website](https://www.evoecoart.com/)
 
 
+__Check out my new [website](https://www.evoecoart.com/)__
 {% include feature_row id="intro" type="left" %}
 
 {% include feature_rowB %}
