@@ -53,7 +53,7 @@ feature_row:
 
 ---
 
-Check out my new [website](https://www.instagram.com/evo.eco.art/)
+####Check out my new [website](https://www.evoecoart.com/)
 
 
 {% include feature_row id="intro" type="left" %}
