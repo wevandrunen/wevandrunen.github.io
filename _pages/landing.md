@@ -54,8 +54,7 @@ feature_row:
 ---
 
 
-
-<font size="6"> <span style="color:black"> <strong> Check out my new [website](https://www.evoecoart.com/) </strong> </span> </font>
+<font size="6"> <span style="color:black"> <strong> Check out my new <a href="https://www.evoecoart.com/">website</a> </strong> </span> </font>
 {% include feature_row id="intro" type="left" %}
 
 {% include feature_rowB %}
